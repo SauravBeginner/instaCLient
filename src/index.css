@@ -11,6 +11,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #212121;
 }
 
 code {
@@ -24,7 +25,7 @@ code {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #212121;
+  color: #d9d7dd;
 }
 
 h3, h6 {
@@ -32,7 +33,7 @@ h3, h6 {
 }
 
 p {
-  color: #555;
+  color: rgb(197, 197, 205);
   font-size: 0.9rem;
 }
 
